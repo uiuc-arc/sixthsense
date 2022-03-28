@@ -1,0 +1,38 @@
+[
+  {
+    "gauss": [
+      "gauss_mix",
+      "gauss_mix_asym_prior",
+      "gauss_mix_given_theta",
+      "normal_mixture",
+      "normal_mixture_k",
+      "normal_mixture_k_prop"
+    ]
+  },
+  {
+    "cluster": [
+      "naive-bayes",
+      "naive-bayes-unsup",
+      "soft-k-means",
+      "corr-lda",
+      "lda"
+    ]
+  },
+  {
+    "other": [
+      "climate-challenge_1",
+      "climate-challenge_2",
+      "eyes",
+      "hearts",
+      "M0",
+      "Mb",
+      "Mh",
+      "Mt",
+      "Mth",
+      "Nmix0",
+      "Nmix1",
+      "Nmix2",
+      "Survey"
+    ]
+  }
+]
